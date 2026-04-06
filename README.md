@@ -1,6 +1,6 @@
 # Zahira-Rojas
 ## 1. Cosas que me gustan 
-Me gusta escuchar música clásica cuando estudio, y usualmente si estoy feliz escucho salsa o jazz. Para distraerme miro series o leo algún libro de divulgación científica (depende del momento). Me encanta, me apasiona la fisica; la astrofisica es a lo que me quiero dedicar.
+Me gusta escuchar música clásica cuando estudio, y usualmente si estoy feliz escucho salsa o jazz. Para distraerme miro series o leo algún libro de divulgación científica (depende del momento). Me encanta, me apasiona la fisica; la astrofisica es a lo que me quiero dedicar. Y si puedo a la ingenieria mecatronica.
 ### 2. Para entenderme más:LA ASTROFISICA
 Estudia los principios, las leyes y teorías físicas; para comprender la composición, origen y evolución de los cuerpos celestes y fenómenos del Universo. 
 #### 3. DIFERENCIA ENTRE ASTRONOMÍA Y ASTROFÍSICA: 
